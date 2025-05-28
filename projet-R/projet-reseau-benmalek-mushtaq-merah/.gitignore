@@ -1,0 +1,11 @@
+.vscode
+struct_mess.dSYM/*
+*.o
+*.dSYM
+sync.sh
+auction.dSYM/*
+.DS_Store
+build/*
+*.git
+auctionP2P
+s.sh
